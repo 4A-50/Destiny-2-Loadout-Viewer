@@ -30,7 +30,7 @@ namespace DestinyAPITest
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            webClient.Headers.Add("X-API-Key", "70c787d071c742d686dfbc7681440cd1");
+            webClient.Headers.Add("X-API-Key", "");
 
             activateCharBtns();
 
