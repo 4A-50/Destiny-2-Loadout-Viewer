@@ -1,2 +1,2 @@
 # Destiny2LoadoutViewer
-A Program To Test The Bungie/Destiny API To Get A Users Loadout
+This Program allows users to view their Destiny 2 loadouts on all 3 characters. It shows their weapons, armour, ship, ghost, sparrow and emblem. And it works by the user entering their Destiny username (so their Xbox Live Username, PSN or Battle Tag), this is then sent to the Bungie API which looks up their characters and their loadouts which are then sent back to the program which displays them.
